@@ -1,4 +1,3 @@
-<<<<<<< Updated upstream
 # TradeIT
 
 ## Description 
