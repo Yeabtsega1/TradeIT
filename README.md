@@ -28,6 +28,7 @@ https://t-r-a-d-e-it.netlify.app/
 
 #### Coinpage
 ![image](https://user-images.githubusercontent.com/78155393/Screenshot (1375).png)
+### Homepage
 ![image](https://user-images.githubusercontent.com/78155393/Screenshot (1375).png)
 #### Empty Watchlist
 ![image](https://user-images.githubusercontent.com/78155393/Screenshot (1374).png)
