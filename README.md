@@ -26,15 +26,15 @@ https://t-r-a-d-e-it.netlify.app/
 - Time Management and Resource Management.
 ## Screenshots
 #### Homepage
-![image](./Screenshot/Screenshot.png)
+![image](./Screenshots/Screenshot.png)
 #### Coinpage
-![image](./Screenshot/Screenshot2.png)
+![image](./Screenshots/Screenshot2.png)
 #### Empty Watchlist
-![image](./Screenshot/Screenshot3.png)
+![image](./Screenshots/Screenshot3.png)
 #### Added to WatchList
-![image](./Screenshot/Screenshot4.png)
+![image](./Screenshots/Screenshot4.png)
 #### Login/Signup via Google, Gmail.
-![image](./Screenshot/Screenshot5.png)
+![image](./Screenshots/Screenshot5.png)
 
 ```
 
